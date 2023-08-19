@@ -35,8 +35,8 @@ body {
 }
 
 #container {
-  width: 360px;
-
+  width: 100%;
+  max-width: 588px;
   /*Borda para ver o que acontece dentro de certo espaçamento border: 1px solid red; */
   margin-right: auto;
   /* aplica no left e raigth */
