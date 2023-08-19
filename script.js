@@ -30,4 +30,4 @@ function toggleMode() {
 
 //se tiver light mode adicionar a img light
 //se tiver sem o light mode manter a img normal
-//substituir a imagem
+//substituir a imagem//
