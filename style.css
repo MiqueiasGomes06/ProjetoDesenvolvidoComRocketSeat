@@ -214,7 +214,7 @@ body * {
 
   animation: slide-back 0.2s;
 }
-
+/* sendo chamado do keyframes que foi criado no fim da pagina para criar a animação */
 .light #switch button {
   animation: slide-in 0.2s forwards;
 }
@@ -312,7 +312,7 @@ footer {
   }
 }
 
-/* animation */
+/* animation do botao que troca o modo, slide in para que ele deslize */
 @keyframes slide-in {
   from {
     left: 0;
